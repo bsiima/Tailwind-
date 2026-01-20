@@ -5,6 +5,7 @@ body {
     background-repeat: no-repeat;
     background-size: 800px;
     background-position: 90% -25%;
+    opacity: 0.5;
 }
 
 #CTA {
